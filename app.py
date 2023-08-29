@@ -111,6 +111,8 @@ if selected == "Imágenes":
 				* https://leonardo.ai/
 			* Stable Diffusion - Reimagine
 				https://clipdrop.co/stable-diffusion-reimagine?ref=producthunt
+            * Stable Diffusion - uncrop (herramienta para expandir imágenes - outpainting)
+				https://clipdrop.co/uncrop
 
 
 		"""
