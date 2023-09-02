@@ -110,7 +110,7 @@ if selected == "Imágenes":
 				* https://playgroundai.com/
 			* Pixelbin
 				* Eliminar fondo
-				* Elimnar marcad de agua de imágenes
+				* Elimnar marca de agua de imágenes
 				* Eliminar logos de imágenes
 				* Mejorar la calidad de una imagen (de imagen pixelada a nítida - escala la imagen)
 				* Comprimir imagen y reducir su tamaño
