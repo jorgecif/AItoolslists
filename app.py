@@ -78,14 +78,14 @@ if selected == "Imágenes":
 		"""
 		* Herramientas que pueden ayudar en la estructuración de prompts:
 				
-			* Herramientas que me permiten buscar prompts como referencia
-				* http://lexica.art 
-				* https://prompthero.com/ 
+		* Herramientas que me permiten buscar prompts como referencia
+			* http://lexica.art 
+			* https://prompthero.com/ 
 
-			* Herramientas que me permiten estructurar un prompt
-				* https://www.dallelist.com/ 
-				* https://promptomania.com/prompt-builder/ 
-				* https://prompt.noonshot.com/ 
+		* Herramientas que me permiten estructurar un prompt
+			* https://www.dallelist.com/ 
+			* https://promptomania.com/prompt-builder/ 
+			* https://prompt.noonshot.com/ 
 
 				
 		* Herramientas para generar imágenes a partir de prompts:
