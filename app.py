@@ -72,7 +72,6 @@ if selected == "Home":
 
 if selected == "Imágenes":
 
-
 		st.title(f"Herramientas IA para la generación de imágenes")
 		st.write("Algunas herramientas:")
 		"""
@@ -80,17 +79,78 @@ if selected == "Imágenes":
 			* http://lexica.art 
 			* https://prompthero.com/ 
 
+		* Herramientas para generar imágenes a partir de prompts:
+			* Stable Diffusion
+				* https://stablediffusionweb.com/#demo 
+			* Lexica ART
+				* https://lexica.art/aperture
+			* Midjourney
+				* http://midjourney.com/ 
+				* Discord Server: https://discord.gg/midjourney 
+			* https://www.bluewillow.ai/ 
+				* Discord Server: https://discord.gg/UrgFx5RS 
+			* Bing Image Creator (Dall-e)
+				* https://www.bing.com/images/create 
+			* Scribble Diffusion 
+				* https://scribblediffusion.com/
+			* ControlNet 
+				* https://stablediffusionweb.com/ControlNet#demo
+			* Dream by Wombo
+				* https://dream.ai/create
+			* Leonardo AI
+				* https://leonardo.ai/			
+
+		* Herramientas para editar imágenes con IA:
+			* Leonardo AI 
+			    * Hacer que continúe una imagen - Outpainting
+				* Añadir un objeto a una imagen
+				* https://leonardo.ai/
+			* PlaygroundAI ()
+				* Quitar un objeto de una imagen
+				* https://playgroundai.com/
+			* Pixelbin
+				* Eliminar fondo
+				* Elimnar marcad de agua de imágenes
+				* Eliminar logos de imágenes
+				* Mejorar la calidad de una imagen (de imagen pixelada a nítida - escala la imagen)
+				* Comprimir imagen y reducir su tamaño
+				* https://www.pixelbin.io/products
+			* Clipdrop
+				* Cambiar la iluminación de una imagen - Relight
+				* Eliminar textos de una imagen (carteles, marcas, etc)
+				* Generar imágenes alternativas similares a una de referencia
+				* https://clipdrop.co/
+			* Clipdrop - Stable Diffusion - Reimagine
+				* Crear variaciones de imagen a partir otra
+				* https://clipdrop.co/stable-diffusion-reimagine?ref=producthunt	
+			* Clipdrop - Stable Diffusion - Uncrop
+				* Herramienta para expandir imágenes - outpainting
+				* https://clipdrop.co/uncrop			
 		"""
+
+if selected == "Texto":
+
+
+		st.title(f"Herramientas IA para el procesamiento de texto")
+		st.write("Algunas herramientas:")
+		"""
+		* Herramientas para el procesamiento y generación de textos (Grandes modelos de lenguaje o LLM):
+			* https://chat.openai.com/chat
+			* https://bing.com/chat
+			* https://www.notion.so/
+		"""
+
+
 
 if selected == "Audio":
 
 
 		st.title(f"Herramientas IA para el procesamiento de audio")
-		st.write("Algunas herramientas:")
+		st.write("Algunas herramientas:") 
 		"""
 		* Herramientas para transcribir textos:
 			* https://podcastle.ai/
-			* https://www.notta.ai/ e
+			* https://www.notta.ai/
 			* Herramienta para extraer audio de un video: https://audio-extractor.net/es/
 		"""
 
