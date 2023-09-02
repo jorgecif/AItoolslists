@@ -102,10 +102,10 @@ if selected == "Imágenes":
 
 		* Herramientas para editar imágenes con IA:
 			* Leonardo AI 
-			    * Hacer que continúe una imagen - Outpainting
+			    * Hacer que continue una imagen - extender - Outpainting
 				* Añadir un objeto a una imagen
 				* https://leonardo.ai/
-			* PlaygroundAI ()
+			* PlaygroundAI
 				* Quitar un objeto de una imagen
 				* https://playgroundai.com/
 			* Pixelbin
@@ -162,8 +162,6 @@ if selected == "Otras":
 		* Herramientas para el procesamiento de audio:
 			* Herramienta para hacer videos: Microsoft Climchamp (para editar videos, recortar, etc): https://clipchamp.com/ 
 			* Herramienta para analizar documentso en PDF: https://www.chatpdf.com/
-
-		
 
 		"""
 
