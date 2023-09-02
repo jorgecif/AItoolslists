@@ -109,10 +109,38 @@ if selected == "Imágenes":
 				* https://dream.ai/create
 			* Leonardo AI
 				* https://leonardo.ai/
-			* Stable Diffusion - Reimagine
-				https://clipdrop.co/stable-diffusion-reimagine?ref=producthunt
-            * Stable Diffusion - uncrop (herramienta para expandir imágenes - outpainting)
-				https://clipdrop.co/uncrop
+
+
+		* Herramientas para editar imágenes con IA:
+
+			* Leonardo AI 
+			    * Hacer que continúe una imagen - Outpainting
+				* Añadir un objeto a una imagen
+				* https://leonardo.ai/
+			* PlaygroundAI ()
+				* Quitar un objeto de una imagen
+				* https://playgroundai.com/
+			* Pixelbin
+				* Eliminar fondo
+				* Elimnar marcad de agua de imágenes
+				* Eliminar logos de imágenes
+				* Mejorar la calidad de una imagen (de imagen pixelada a nítida - escala la imagen)
+				* Comprimir imagen y reducir su tamaño
+				* https://www.pixelbin.io/products
+
+			* Clipdrop
+				* Cambiar la iluminación de una imagen - Relight
+				* Eliminar textos de una imagen (carteles, marcas, etc)
+				* Generar imágenes alternativas similares a una de referencia
+				* https://clipdrop.co/
+
+
+			* Clipdrop - Stable Diffusion - Reimagine
+				* Crear variaciones de imagen a partir otra
+				* https://clipdrop.co/stable-diffusion-reimagine?ref=producthunt
+            * Clipdrop - Stable Diffusion - Uncrop
+				* Herramienta para expandir imágenes - outpainting
+				* https://clipdrop.co/uncrop 			
 
 
 		"""
