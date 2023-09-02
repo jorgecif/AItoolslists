@@ -76,8 +76,6 @@ if selected == "Imágenes":
 		st.title(f"Herramientas IA para la generación de imágenes")
 		st.write("Algunas herramientas:")
 		"""
-		* Herramientas que pueden ayudar en la estructuración de prompts:
-				
 		* Herramientas que me permiten buscar prompts como referencia
 			* http://lexica.art 
 			* https://prompthero.com/ 
