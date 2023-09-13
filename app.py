@@ -138,6 +138,11 @@ if selected == "Texto":
 			* https://chat.openai.com/chat
 			* https://bing.com/chat
 			* https://www.notion.so/
+		* Herramientas para parafrasear un texto manteniendo su significado:
+			* https://www.paraphraser.io/
+		* Herramienta para crear un chat de preguntas y respuestas con documentos en PDF: 
+			* https://www.chatpdf.com/
+
 		"""
 
 
@@ -161,7 +166,6 @@ if selected == "Otras":
 		"""
 		* Herramientas para el procesamiento de audio:
 			* Herramienta para hacer videos: Microsoft Climchamp (para editar videos, recortar, etc): https://clipchamp.com/ 
-			* Herramienta para analizar documentso en PDF: https://www.chatpdf.com/
 
 		"""
 
