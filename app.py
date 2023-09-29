@@ -1,7 +1,6 @@
 import streamlit as st
 import PIL.Image
 from streamlit_option_menu import option_menu
-from streamlit_extras.let_it_rain import rain
 
 
 
