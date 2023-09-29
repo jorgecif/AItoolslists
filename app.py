@@ -13,14 +13,14 @@ st.set_page_config(
 )
 
 # Oculto botones de Streamlit
-hide_streamlit_style = """
-				<style>
-				#MainMenu {visibility: hidden;}
-
-				footer {visibility: hidden;}
-				</style>
-				"""
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+#hide_streamlit_style = """
+#				<style>
+#				#MainMenu {visibility: hidden;}
+#
+#				footer {visibility: hidden;}
+#				</style>
+#				"""
+#st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 # Funciones
 def success():
