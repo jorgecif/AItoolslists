@@ -33,7 +33,7 @@ st.sidebar.image(image, width=None, use_column_width=None)
 with st.sidebar:
     selected = option_menu(
         menu_title="Selecciona",  # required
-        options=["Home", "Imagenes",  "Texto", "Audio", "Otras", "Créditos"],  # required
+        options=["Home", "Iniciar", "Créditos"],  # required
         icons=["house", "caret-right-fill", "caret-right-fill","caret-right-fill",
                         "caret-right-fill", "envelope"],  # optional
         menu_icon="upc-scan",  # optional
@@ -43,23 +43,26 @@ with st.sidebar:
 
 
 if selected == "Home":
-	st.title("Experimenta con IA - Listado de herramientas externas")
-	st.write("En este listado hemos recopilado algunas herramientas que pueden ser de utilidad para la generación de imágenes y texto por medio de IA.\n \n Recuerda que siempre tienes que revisar y validar cualquier respuesta que obtengas de una herramienta IA.\n\n\n\n")
+	st.title("Experimenta con IA - Adivina el prompt")
+	st.write("Esta herramienta te permitirá desarrollar habilidades en el arte de la escritura de prompts.\n \n para la generación de imágenes con IA.\n\n\n\n")
 	st.write(' ')
 	st.write("**Instrucciones:** \n ")
+
+
 	"""
-	* Selecciona "Imagenes" en el menú de la izquierda si quieres ver el listado de herramientas IA para la generación de imágenes
-	* Selecciona "Texto" en el menú de la izquierda si quieres ver el listado de herramientas IA basadas en grandes modelos de lenguaje que te servirán para procesar y/o generar texto.
-	* Selecciona "Audio" en el menú de la izquierda si quieres ver el listado de herramientas IA para el procesamiento de audio.
-	* Selecciona "Otros" en el menú de la izquierda si quieres ver otras herramientas que pueden ser de utilidad para el proceso de innovación.
-	* Recuerda que estas experimentando y lo importante, más que el resultado, es reconocer las ventajas de la IA.
+	* Selecciona iniciar en el menú de la izquierda.
+	* Selecciona una imagen de la lista desplegable. Hay 10 imágenes disponibles.
+    * Escribe el prompt que creas se utilizó para generar la imagen. Recuerda que debes escribirlo en inglés pues la mayoría de este tipo de herramientas funcionan sólo en este idioma.
+	* Haz clic en el botón "Adivinar".
+	* Se mostrará un puntaje de acuerdo a la similitud con el prompt real usado para generar la imagen.
+		* El primer valor corresponde al puntaje actual 
+		* El segundo al valor más alto de todos los intentos realizados. 
+
+		* Las flechas hacia abajo o hacia arriba indicarán si el puntaje ha subido o bajado de acuerdo a los intentos anteriores.
+	* Como último recursos se incluye un checkbox que si lo marcas hará que aparezca el prompt real utilizado para generar la imagen.
+
+	
 
 	\n \n \n NOTA: Esta herramienta es un demo experimental y está sujeta a la demanda de uso. 
 
 	"""
-
-
-
-
-
-
