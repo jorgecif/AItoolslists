@@ -44,7 +44,7 @@ st.sidebar.image(image, width=None, use_column_width=None)
 with st.sidebar:
     selected = option_menu(
         menu_title="Selecciona",  # required
-        options=["Home", "Imágenes",  "Texto", "Audio", "Otras", "Créditos"],  # required
+        options=["Home", "Imagenes",  "Texto", "Audio", "Otras", "Créditos"],  # required
         icons=["house", "caret-right-fill", "caret-right-fill","caret-right-fill",
                         "caret-right-fill", "envelope"],  # optional
         menu_icon="upc-scan",  # optional
@@ -59,7 +59,7 @@ if selected == "Home":
 	st.write(' ')
 	st.write("**Instrucciones:** \n ")
 	"""
-	* Selecciona "Imágenes" en el menú de la izquierda si quieres ver el listado de herramientas IA para la generación de imágenes
+	* Selecciona "Imagenes" en el menú de la izquierda si quieres ver el listado de herramientas IA para la generación de imágenes
 	* Selecciona "Texto" en el menú de la izquierda si quieres ver el listado de herramientas IA basadas en grandes modelos de lenguaje que te servirán para procesar y/o generar texto.
 	* Selecciona "Audio" en el menú de la izquierda si quieres ver el listado de herramientas IA para el procesamiento de audio.
 	* Selecciona "Otros" en el menú de la izquierda si quieres ver otras herramientas que pueden ser de utilidad para el proceso de innovación.
@@ -129,8 +129,6 @@ if selected == "Imágenes":
 		"""
 
 if selected == "Texto":
-
-
 		st.title(f"Herramientas IA para el procesamiento de texto")
 		st.write("Algunas herramientas:")
 		"""
