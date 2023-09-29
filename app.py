@@ -49,11 +49,11 @@ if selected == "Home":
 	st.write(' ')
 	st.write("**Instrucciones:** \n ")
 	"""
-	* Selecciona "Imagenes" en el menú de la izquierda si quieres ver el listado de herramientas IA para la generación de imágenes
-	* Selecciona "Texto" en el menú de la izquierda si quieres ver el listado de herramientas IA basadas en grandes modelos de lenguaje que te servirán para procesar y/o generar texto.
-	* Selecciona "Audio" en el menú de la izquierda si quieres ver el listado de herramientas IA para el procesamiento de audio.
-	* Selecciona "Otros" en el menú de la izquierda si quieres ver otras herramientas que pueden ser de utilidad para el proceso de innovación.
-	* Recuerda que estas experimentando y lo importante, más que el resultado, es reconocer las ventajas de la IA.
+* Selecciona "Imagenes" en el menú de la izquierda si quieres ver el listado de herramientas IA para la generación de imágenes
+* Selecciona "Texto" en el menú de la izquierda si quieres ver el listado de herramientas IA basadas en grandes modelos de lenguaje que te servirán para procesar y/o generar texto.
+* Selecciona "Audio" en el menú de la izquierda si quieres ver el listado de herramientas IA para el procesamiento de audio.
+* Selecciona "Otros" en el menú de la izquierda si quieres ver otras herramientas que pueden ser de utilidad para el proceso de innovación.
+* Recuerda que estas experimentando y lo importante, más que el resultado, es reconocer las ventajas de la IA.
 
 	\n \n \n NOTA: Esta herramienta es un demo experimental y está sujeta a la demanda de uso. 
 
@@ -68,7 +68,6 @@ if selected == "Imágenes":
 		* Herramientas que me permiten buscar prompts como referencia
 			* http://lexica.art 
 			* https://prompthero.com/ 
-
 		* Herramientas para generar imágenes a partir de prompts:
 			* Stable Diffusion
 				* https://stablediffusionweb.com/#demo 
@@ -89,10 +88,9 @@ if selected == "Imágenes":
 				* https://dream.ai/create
 			* Leonardo AI
 				* https://leonardo.ai/			
-
 		* Herramientas para editar imágenes con IA:
 			* Leonardo AI 
-			    * Hacer que continue una imagen - extender - Outpainting
+				* Hacer que continue una imagen - extender - Outpainting
 				* Añadir un objeto a una imagen
 				* https://leonardo.ai/
 			* PlaygroundAI
