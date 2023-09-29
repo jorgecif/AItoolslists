@@ -60,18 +60,6 @@ if selected == "Home":
 
 
 
-if selected == "Otras":
-
-		st.title(f"Otras herramientas que pueden ser útiles")
-		st.write("Algunas herramientas:")
-		"""
-		* Herramientas para el procesamiento de audio:
-			* Herramienta para hacer videos: Microsoft Climchamp (para editar videos, recortar, etc): https://clipchamp.com/ 
-
-		"""
-
-
-
 
 
 
