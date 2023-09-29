@@ -63,29 +63,3 @@ if selected == "Home":
 
 
 
-
-
-if selected == "Créditos":
-	st.title(f"Seleccionaste la opción {selected}")
-	st.write(' ')
-	st.write(' ')
-	st.subheader("Qüid Lab")
-	body = '<a href="https://www.quidlab.co">https://www.quidlab.co</a>'
-	linkedin = 'Linkedin: <a href="https://www.linkedin.com/in/jorgecif/">https://www.linkedin.com/in/jorgecif/</a>' 
-	twitter = 'Twitter (X): <a href="https://twitter.com/jorgecif/">https://twitter.com/jorgecif/</a>' 
-	st.markdown(body, unsafe_allow_html=True)
-	st.write('Creado por: *Jorge O. Cifuentes* :fleur_de_lis:')
-	st.markdown(linkedin, unsafe_allow_html=True)
-	st.markdown(twitter, unsafe_allow_html=True)
-
-	st.write('Email: *jorge@quidlab.co* ')
-	st.write("Quid Lab AI tools")
-	st.write("Version 1.0")
-	st.text("")
-
-
-
-
-
-
-
