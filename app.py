@@ -33,7 +33,7 @@ st.sidebar.image(image, width=None, use_column_width=None)
 with st.sidebar:
     selected = option_menu(
         menu_title="Selecciona",  # required
-        options=["Home", "Imágenes", "Texto", "Audio", "Otras",    "Créditos"],  # required
+        options=["Home", "Texto", "Audio", "Otras",    "Créditos"],  # required
         icons=["house", "caret-right-fill", "caret-right-fill","caret-right-fill",
                         "caret-right-fill", "envelope"],  # optional
         menu_icon="upc-scan",  # optional
