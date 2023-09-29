@@ -22,13 +22,6 @@ st.set_page_config(
 #st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 # Funciones
-def success():
-	rain(
-		emoji="🎈",
-		font_size=54,
-		falling_speed=5,
-		animation_length=1, #'infinite'
-	)
 
 
 
